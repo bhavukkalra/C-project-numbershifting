@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{6E3C1B4A-249E-4097-A9FA-DD57AA6CCA8C}</ProjectGuid>
+    <ProjectGuid>{D00EA110-3970-4F5C-860A-71607C89D148}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>NumberShiftinggame</RootNamespace>
+    <RootNamespace>numbershifting</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NumberShiftinggame.cpp" />
+    <ClCompile Include="numbershifting.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

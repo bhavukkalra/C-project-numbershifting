@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="NumberShiftinggame.cpp">
+    <ClCompile Include="numbershifting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

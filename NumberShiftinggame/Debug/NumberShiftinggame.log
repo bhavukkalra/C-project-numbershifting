@@ -1,3 +1,0 @@
-﻿  NumberShiftinggame.cpp
-c:\users\om\desktop\numbershiftinggame\numbershiftinggame\numbershiftinggame.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  NumberShiftinggame.vcxproj -> C:\Users\om\Desktop\NumberShiftinggame\Debug\NumberShiftinggame.exe
