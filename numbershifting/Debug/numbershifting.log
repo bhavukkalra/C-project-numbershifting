@@ -1,1 +1,3 @@
-﻿  numbershifting.vcxproj -> C:\Users\om\source\repos\numbershifting\Debug\numbershifting.exe
+﻿  numbershifting.cpp
+c:\users\om\source\repos\numbershifting\numbershifting\numbershifting.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  numbershifting.vcxproj -> C:\Users\om\source\repos\numbershifting\Debug\numbershifting.exe
